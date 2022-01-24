@@ -1,0 +1,254 @@
+@import url("https://use.typekit.net/mdd1zus.css");
+:root {
+  --scale: calc(1 / 2);
+}
+
+@media (min-width: 512px) {
+  :root {
+    --scale: 1;
+  }
+}
+
+
+html {
+  background-color: hsl(0, 0%, 100%);
+  color: #1a202c;
+  -webkit-font-smoothing: antialiased;
+  font-family: neue-haas-grotesk-text, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+}
+
+body {
+  padding: calc(20px * var(scale));
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+h1,
+h4 {
+  margin: 0;
+  padding: 0;
+  border: none;
+  font-weight: 700;
+  line-height: 1.3;
+  font-size: 20px;
+}
+
+p {
+  font-size: 20px;
+}
+
+ul {
+  font-size: 18px;
+}
+
+a {
+  color: #0a3ba3ea;
+  text-decoration: none;
+  transition: filter 0.3s ease-in-out;
+}
+
+a:hover {
+  filter: brightness(0.8);
+}
+
+.logo {
+  height: 2em;
+  vertical-align: middle;
+  border-radius: 10%;
+}
+
+.container {
+  padding: calc(55px * var(--scale));
+  margin: 0 auto;
+  width: 768px;
+  flex-direction: column;
+}
+
+.title {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border-width: 0;
+}
+
+.icon {
+  width: 2rem;
+  height: 2rem;
+  display: inline;
+  transition: opacity 0.3s ease-in-out;
+}
+
+.icon {
+  opacity: 0.7;
+}
+
+/*links section*/
+p.links {
+  font-size: 32px;
+  background-color: #f7f7f788;
+  border-radius: 15px;
+  padding-left:32px;
+  text-decoration: none;
+  transition: filter 0.3s ease-in-out;
+}
+
+a.github {
+  color:#000000;
+}
+
+a.linkedin {
+  color: #0077B5;
+}
+
+a.goodreads {
+  background:linear-gradient(120DEG,#553B08,#c5bdbd);
+  
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+a.unsplash {
+  color: #000000;
+}
+
+img.email {
+  vertical-align: middle;
+  height: 18px;
+  padding-top: 13px;
+  padding-right:10px;
+  float: right;
+  clear:both;
+}
+
+
+/*curiosity quote*/
+code {
+  font-family: inherit;
+  font-size: 18px;
+  color: white;
+  transition: filter 0.3s ease-in-out;
+}
+
+code:hover {
+  /*filter: brightness(0.8);*/
+  color: #ffffff;
+  background-color: #000000;
+}
+
+p > code,
+li > code,
+dd > code,
+td > code {
+  background: #ffffff;
+  color: #000000;
+  word-wrap: break-word;
+  box-decoration-break: clone;
+  /*padding: .1rem .3rem .2rem;*/
+  border-radius: .2rem;
+  
+}
+
+/*company logos*/
+
+img.logo1 {
+  width: 16px;
+  vertical-align: middle;
+  padding-bottom: 4px;
+}
+
+img.logo2 {
+  width:22px;
+  vertical-align: middle;
+  padding-bottom: 4px;
+  padding-right: 3px;
+}
+
+img.logo3 {
+  width: 18px;
+  vertical-align: middle;
+  padding-bottom: 4px;
+  padding-right: 3px;
+
+}
+
+img.logo4 {
+  width: 16px;
+  vertical-align: middle;
+  padding-bottom: 4px;
+  padding-right: 3px;
+
+}
+
+img.logo5 {
+  width: 18px;
+  vertical-align: middle;
+  padding-bottom: 4px;
+  padding-right: 3px;
+}
+
+
+
+img.logo7 {
+  width: 19px;
+  vertical-align: middle;
+  padding-bottom: 4px;
+  padding-right: 3px;
+}
+
+img.logo8 {
+  width: 22px;
+  vertical-align: middle;
+  padding-bottom: 5px;
+  padding-right: 3px;
+}
+
+img.logo9 {
+  width: 20px;
+  vertical-align: middle;
+  padding-bottom: 5px;
+  padding-right: 2px;
+}
+
+img.logo10 {
+  width: 18px;
+  vertical-align: middle;
+  padding-bottom: 4px;
+  padding-right: 3px;
+}
+
+img.logo11 {
+  width: 18px;
+  vertical-align: middle;
+  padding-bottom: 4px;
+  padding-right: 3px;
+}
+
+img.logo12 {
+  width: 18px;
+  vertical-align: middle;
+  padding-bottom: 4px;
+  padding-right: 3px;
+}
+
+img.logo13 {
+  width: 18px;
+  vertical-align: middle;
+  padding-bottom: 4px;
+  padding-right: 3px;
+}
+
+
+
+/*footer*/
+
+p.footer {
+  font-size: 13px;
+}
