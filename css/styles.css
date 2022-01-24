@@ -126,6 +126,7 @@ img.email {
   padding-right:10px;
   float: right;
   clear:both;
+  pointer-events: none;
 }
 
 
