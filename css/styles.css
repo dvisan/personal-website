@@ -25,7 +25,7 @@ body {
   flex-direction: row;
   flex-wrap: wrap;
 }
-
+/*content*/
 h1,
 h4 {
   margin: 0;
@@ -37,11 +37,11 @@ h4 {
 }
 
 p {
-  font-size: 20px;
+  font-size: 18px;
 }
 
 ul {
-  font-size: 18px;
+  font-size: 16px;
 }
 
 a {
@@ -92,7 +92,7 @@ a:hover {
 
 /*links section*/
 p.links {
-  font-size: 32px;
+  font-size: 30px;
   background-color: #f7f7f788;
   border-radius: 15px;
   padding-left:32px;
@@ -133,7 +133,7 @@ img.email {
 /*curiosity quote*/
 code {
   font-family: inherit;
-  font-size: 18px;
+  font-size: 16px;
   color: white;
   transition: filter 0.3s ease-in-out;
 }
@@ -166,16 +166,16 @@ img.logo1 {
 }
 
 img.logo2 {
-  width:22px;
+  width:20px;
   vertical-align: middle;
-  padding-bottom: 4px;
+  padding-bottom: 3px;
   padding-right: 3px;
 }
 
 img.logo3 {
-  width: 18px;
+  width: 16px;
   vertical-align: middle;
-  padding-bottom: 4px;
+  padding-bottom: 3px;
   padding-right: 3px;
 
 }
@@ -183,71 +183,71 @@ img.logo3 {
 img.logo4 {
   width: 16px;
   vertical-align: middle;
-  padding-bottom: 4px;
+  padding-bottom: 3px;
   padding-right: 3px;
 
 }
 
 img.logo5 {
-  width: 18px;
+  width: 16px;
   vertical-align: middle;
-  padding-bottom: 4px;
+  padding-bottom: 3px;
   padding-right: 3px;
 }
 
 img.logo6 {
-  width: 18px;
+  width: 16px;
   vertical-align: middle;
-  padding-bottom: 4px;
+  padding-bottom: 3px;
   padding-right: 3px;
 }
 
 img.logo7 {
-  width: 19px;
+  width: 16px;
   vertical-align: middle;
-  padding-bottom: 4px;
+  padding-bottom: 3px;
   padding-right: 3px;
 }
 
 img.logo8 {
-  width: 22px;
+  width: 20px;
   vertical-align: middle;
   padding-bottom: 5px;
   padding-right: 3px;
 }
 
 img.logo9 {
-  width: 20px;
+  width: 16px;
   vertical-align: middle;
-  padding-bottom: 5px;
-  padding-right: 2px;
+  padding-bottom: 3px;
+  padding-right: 3px;
 }
 
 img.logo10 {
-  width: 18px;
+  width: 16px;
   vertical-align: middle;
-  padding-bottom: 4px;
+  padding-bottom: 3px;
   padding-right: 3px;
 }
 
 img.logo11 {
-  width: 18px;
+  width: 16px;
   vertical-align: middle;
-  padding-bottom: 4px;
+  padding-bottom: 3px;
   padding-right: 3px;
 }
 
 img.logo12 {
-  width: 18px;
+  width: 16px;
   vertical-align: middle;
-  padding-bottom: 4px;
+  padding-bottom: 3px;
   padding-right: 3px;
 }
 
 img.logo13 {
-  width: 18px;
+  width: 16px;
   vertical-align: middle;
-  padding-bottom: 4px;
+  padding-bottom: 3px;
   padding-right: 3px;
 }
 
