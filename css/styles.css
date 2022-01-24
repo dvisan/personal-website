@@ -58,6 +58,7 @@ a:hover {
   height: 2em;
   vertical-align: middle;
   border-radius: 10%;
+  pointer-events: none;
 }
 
 p.introduction {
@@ -167,6 +168,7 @@ img.logo1 {
   width: 16px;
   vertical-align: middle;
   padding-bottom: 4px;
+  pointer-events: none;
 }
 
 img.logo2 {
@@ -174,6 +176,7 @@ img.logo2 {
   vertical-align: middle;
   padding-bottom: 3px;
   padding-right: 3px;
+  pointer-events: none;
 }
 
 img.logo3 {
@@ -181,6 +184,7 @@ img.logo3 {
   vertical-align: middle;
   padding-bottom: 3px;
   padding-right: 3px;
+  pointer-events: none;
 
 }
 
@@ -189,6 +193,7 @@ img.logo4 {
   vertical-align: middle;
   padding-bottom: 3px;
   padding-right: 3px;
+  pointer-events: none;
 
 }
 
@@ -197,6 +202,7 @@ img.logo5 {
   vertical-align: middle;
   padding-bottom: 3px;
   padding-right: 3px;
+  pointer-events: none;
 }
 
 img.logo6 {
@@ -204,6 +210,7 @@ img.logo6 {
   vertical-align: middle;
   padding-bottom: 3px;
   padding-right: 3px;
+  pointer-events: none;
 }
 
 img.logo7 {
@@ -211,6 +218,7 @@ img.logo7 {
   vertical-align: middle;
   padding-bottom: 3px;
   padding-right: 3px;
+  pointer-events: none;
 }
 
 img.logo8 {
@@ -218,6 +226,7 @@ img.logo8 {
   vertical-align: middle;
   padding-bottom: 5px;
   padding-right: 3px;
+  pointer-events: none;
 }
 
 img.logo9 {
@@ -225,6 +234,7 @@ img.logo9 {
   vertical-align: middle;
   padding-bottom: 3px;
   padding-right: 3px;
+  pointer-events: none;
 }
 
 img.logo10 {
@@ -232,6 +242,7 @@ img.logo10 {
   vertical-align: middle;
   padding-bottom: 3px;
   padding-right: 3px;
+  pointer-events: none;
 }
 
 img.logo11 {
@@ -239,6 +250,7 @@ img.logo11 {
   vertical-align: middle;
   padding-bottom: 3px;
   padding-right: 3px;
+  pointer-events: none;
 }
 
 img.logo12 {
@@ -246,6 +258,7 @@ img.logo12 {
   vertical-align: middle;
   padding-bottom: 3px;
   padding-right: 3px;
+  pointer-events: none;
 }
 
 img.logo13 {
@@ -253,6 +266,7 @@ img.logo13 {
   vertical-align: middle;
   padding-bottom: 3px;
   padding-right: 3px;
+  pointer-events: none;
 }
 
 img.logo14 {
@@ -260,6 +274,7 @@ img.logo14 {
   vertical-align: middle;
   padding-bottom: 3px;
   padding-right: 3px;
+  pointer-events: none;
 }
 
 img.logo15 {
@@ -267,6 +282,7 @@ img.logo15 {
   vertical-align: middle;
   padding-bottom: 3px;
   padding-right: 3px;
+  pointer-events: none;
 }
 
 /*footer*/
