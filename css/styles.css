@@ -165,9 +165,9 @@ td > code {
 /*company logos*/
 
 img.logo1 {
-  width: 16px;
+  width: 15px;
   vertical-align: middle;
-  padding-bottom: 4px;
+  padding-bottom: 3px;
   pointer-events: none;
 }
 
